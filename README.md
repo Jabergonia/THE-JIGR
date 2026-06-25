@@ -1,5 +1,5 @@
 # THE-JIGR
-An Association of Computing Machinery Techsprint Hackathon Team.
+An Association for Computing Machinery Techsprint Hackathon Team.
 
 ALAI is an offline AI-powered study companion designed to make learning more accessible, engaging, and personalized for students. Built to support learners through multilingual translation, intelligent tutoring, and academic progress monitoring, ALAI empowers students to learn anytime and anywhere, even without an internet connection. By combining adaptive learning, a friendly AI companion, and data-driven performance insights, ALAI helps students strengthen their understanding, build confidence, and achieve their educational goals.
 
